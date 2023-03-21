@@ -1,1 +1,1 @@
-# Kernel P.C.A.
+# Kernel PCA
